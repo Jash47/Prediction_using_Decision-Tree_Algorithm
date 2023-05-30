@@ -55,6 +55,6 @@ The decision tree algorithm is a powerful tool for predictive modeling, offering
 Please refer to the accompanying code implementation for a practical demonstration of prediction using the decision tree algorithm.
 
 ## Contact
-For any questions, feedback, or collaborations, feel free to reach out to me. Connect with me on LinkedIn - jash thakar or email at - jash.thakar99@gmail.com 
+For any questions, feedback, or collaborations, feel free to reach out to me. Connect with me on LinkedIn - https://www.linkedin.com/in/jash-thakar-2694b9242/  or email at - jash.thakar99@gmail.com 
 
 
