@@ -1,4 +1,4 @@
-# Task 6: Prediction using Decision Tree Algorithm 
+# Prediction using Decision Tree Algorithm 
 This repository provides an overview of prediction using the decision tree algorithm. The decision tree algorithm is a widely used machine learning technique that enables predictive modeling in various domains.
 
 ## Overview
